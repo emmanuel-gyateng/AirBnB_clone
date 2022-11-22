@@ -22,7 +22,7 @@ deploy in the coming month:
 * Serving of dynamic content using JavaScript
 
 <p align="center">
-  <img src="https://github.com/gentomacine/AirBnB_clone_v2/blob/master/assets/hbnb_stack.png"
+  <img src="https://github.com/emmanuel-gyateng/AirBnB_clone/blob/main/web_static/images/icon_group.png"
 	    alt="AlxBnB stack">
 </p>
 
