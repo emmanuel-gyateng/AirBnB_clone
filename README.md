@@ -41,9 +41,7 @@ Alx.
 
 Recognizing that I am sharing a near-complete project, I additionally put
 together a small Flask app according to the specifications described in the
-application. Please take a look at this separate repository here:
-
-https://github.com/bdbaraban/lyft_apprenticeship_application
+application.
 
 Nonetheless, allow me to talk a little more about this AirBnB clone. This
 repository is the second iteration of the project. In the first version
