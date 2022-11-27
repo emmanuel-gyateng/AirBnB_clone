@@ -2,7 +2,7 @@
 """
 Unit Test for BaseModel Class
 """
-import ..console
+import console
 from contextlib import contextmanager
 from datetime import datetime
 import inspect
